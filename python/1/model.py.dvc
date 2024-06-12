@@ -1,0 +1,5 @@
+outs:
+- md5: 46cdd48b5c47962f1f11f75946a724fa
+  size: 669
+  hash: md5
+  path: model.py
