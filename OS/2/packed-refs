@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+3edbe218ad3544ef451b20c6ac5ef1013d708b47 refs/remotes/origin/1.0.0-hadoop2.7.1
+dd6cea28f452941293f5ac081b08e7dde7181f7a refs/remotes/origin/1.1.0-hadoop2.7.1
+8065ea099085f6a133af6c0547d440709f334c15 refs/remotes/origin/1.1.0-hadoop2.7.1-java8
+86c921c2be02b0473b8aa0dd273ff20521c1265f refs/remotes/origin/1.1.0-hadoop2.8-java8
+75eb1bacc24251933075977a6280380271ad0293 refs/remotes/origin/1.2.0-hadoop2.7.4-java8
+4a3a7e53c1621327c93bf58989ca37f0e3ba5bbd refs/remotes/origin/1.2.0-hadoop2.8-java8
+362d81fa393bc863f3708a66a968267cc7037828 refs/remotes/origin/1.2.1-hadoop2.8-java8
+87b48761d25f8efe527946b59f249ae22e11a87c refs/remotes/origin/2.0.0-hadoop2.7.4-java8
+e823e6fe1d88d450e3b99ab313eea64b50fcfea3 refs/remotes/origin/2.0.0-hadoop3.1.1-java8
+f8455415e2a88037cbc90f6a6f1b6db6479bea43 refs/remotes/origin/2.0.0-hadoop3.1.2-java8
+206a5aeb809ae98ba6114e36bd5e7a742aa89bb0 refs/remotes/origin/2.0.0-hadoop3.1.3-java8
+e1e1e21ec9e5adffeffb95da3d8746ef9802f946 refs/remotes/origin/2.0.0-hadoop3.2.1-java8
+8414e2b05122f85392cce0d27bf3978ed056696e refs/remotes/origin/master
+7f2cd4702a3e6ea932db95f6de3d63d2d1103e2a refs/remotes/origin/v0.1.0
+a8bbe0d4b7bfbcd6494842ca3604aa5c3b5fdf33 refs/remotes/origin/v1.0.0
+f8455415e2a88037cbc90f6a6f1b6db6479bea43 refs/tags/2.0.0-hadoop3.1.2-java8
+bc861a60bbc78ec0a42d96cc358584a945ccf0c1 refs/tags/2.0.0-hadoop3.1.3-java8
+e1e1e21ec9e5adffeffb95da3d8746ef9802f946 refs/tags/2.0.0-hadoop3.2.1-java8
+c4d756e766f8c5bf5f4099e5b700f260ae4a2f59 refs/tags/3.1.1
+f8455415e2a88037cbc90f6a6f1b6db6479bea43 refs/tags/3.1.2
+bc861a60bbc78ec0a42d96cc358584a945ccf0c1 refs/tags/3.1.3
+e1e1e21ec9e5adffeffb95da3d8746ef9802f946 refs/tags/3.2.1
